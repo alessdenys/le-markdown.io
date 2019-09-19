@@ -1,0 +1,38 @@
+body
+{
+    background-color: gray;
+}
+h2
+{
+    color: rgba(224, 14, 14, 0.801);
+}
+h1
+{
+    color: rgba(224, 14, 14, 0.801);
+}
+strong
+{
+    color: rgba(224, 14, 14, 0.801);
+}
+em
+{
+    color: rgba(224, 14, 14, 0.801);
+}
+b
+{
+    color: rgba(224, 14, 14, 0.801);
+}
+a
+{
+    color: purple;
+}
+ a:hover
+ {
+     background-color: black;
+     border-radius: 5px;
+     color: red
+ }
+ #alert
+ {
+    background-color: fuchsia;
+ }
